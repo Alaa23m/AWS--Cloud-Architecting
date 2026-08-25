@@ -6,7 +6,7 @@ Hands-on labs from the AWS Academy Cloud Architecting course. Each folder contai
 
 | Lab | Description |
 |---|---|
-| [S3 Static Website Hosting](./s3-static-website-hosting) | Static website on S3 with versioning, lifecycle rules, and cross-region replication |
+| [S3 Static Website Hosting](./Static Website) | Static website on S3 with versioning, lifecycle rules, and cross-region replication |
 
 More labs will be added here as they're completed.
 
